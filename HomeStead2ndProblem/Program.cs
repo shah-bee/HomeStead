@@ -10,6 +10,7 @@ namespace HomeStead2ndProblem
     {
         static void Main(string[] args)
         {
+            
 
         }
     }
